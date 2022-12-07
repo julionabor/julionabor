@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Julio Cesar Nabor</h1>
 
 
-- 🔥 Web Developer & Frontend Developer focused on helping and creating new solutions for Web 
+- 🔥 Frontend Developer focused on helping and creating new solutions for Web 
 
 - 🔭 I’m currently working at [Atreve-te](https://atrevete.pt/)
 
