@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julio Nabor</h1>
-<h3 align="center">A passionate Frontend Developer from Brazil living in Portugal since 2008</h3>
+<h3 align="center">A passionate Frontend Developer from Brazil, living in Portugal since 2008</h3>
 
 - 🔭 I’m currently working on [ADAI](http://adesportivaimigrante.netlify.app)
 
-- 🌱 I’m currently learning **React,Angular, SASS, Tailwand e MongoDB**
+- 🌱 I’m currently learning **React, Tailwand e MongoDB**
 
 - 👯 I’m looking to collaborate on **Fantaspreço**
 
