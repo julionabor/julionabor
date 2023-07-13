@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [ADAI](http://adesportivaimigrante.netlify.app)
 
-- 🌱 I’m currently learning **React, Tailwand e MongoDB**
-
-- 👯 I’m looking to collaborate on **Fantaspreço**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [http://julionabor.netlify.app](http://julionabor.netlify.app)
 
-- 💬 Ask me about **Javascript, HTML5, CSS**
+- 💬 Ask me about **Javascript, HTML5, CSS or React**
 
 - 📫 How to reach me **julionabor@gmail.com**
 
